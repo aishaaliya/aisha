@@ -1,0 +1,18 @@
+img{
+    float: right;
+}
+.number {
+    background-color:rgba(116, 0, 0, 0.404);
+    color:rgba(165, 42, 42, 0.664);
+    font-weight: bold;
+}
+.me {
+ color: blue;
+}
+.u {
+    color: black;
+    font-weight: bold;
+}
+.in {
+width: 70;
+}
